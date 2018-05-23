@@ -1,0 +1,67 @@
+.section1 {
+  background-image: url(images/bg.jpeg);
+  height: 600px;
+  padding-bottom: 2%;
+}
+
+.mynavbar {
+  background:rgba(0,0,0,0.0);
+  border-color: rgba(0,0,0,0.0);
+}
+
+.main_title{
+  text-align: center;
+  clear: left;
+  display: block;
+  color: white;
+  font-size: 3em;
+  font-weight: 400;
+  letter-spacing: 1px;
+  margin-top: 5%;
+}
+
+.main_buttons{
+  text-align: center;
+  margin-top: 3%;
+}
+.button1{
+  background-color: #1E76BD;
+}
+
+.button2{
+  margin-left: 20px;
+}
+
+.main_subtitle{
+  padding-top: 2%;
+  color: white;
+  text-align: center;
+}
+
+.section2 {
+  text-align: center;
+  padding: 5% 0;
+}
+
+.section2 img {
+  width: 30%;
+  margin:0;
+  display: inherit;
+  margin: auto;
+}
+
+.section3 {
+  text-align: center;
+  padding: 5% 0;
+  background-color: lightgrey;
+}
+
+.section4{
+  padding-top:5%;
+}
+
+.section5{
+  padding:2% 0;
+  background-color: black;
+  color: white;
+}
